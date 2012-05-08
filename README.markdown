@@ -8,8 +8,8 @@ This is heavily based on [ sleepyfox / coffeescript-koans ]( https://github.com/
 
 ### Installation
 
-1) Fork and/or clone the repository.
-2) Run `npm install`
+1. Fork and/or clone the repository.
+2. Run `npm install`
 
 ###Run the tests
 
