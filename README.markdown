@@ -4,7 +4,7 @@ This work is based on Ben Hall's [Javascript Koans](https://github.com/BenHall/j
 which in turn are based upon Edgecase's [Ruby koans](http://github.com/edgecase/ruby_koans). 
 The goal of the CoffeeScript koans is to teach you CoffeeScript programming through testing.
 
-This is heavily based on (sleepyfox / coffeescript-koans)[https://github.com/sleepyfox/coffeescript-koans]. In contrast to sleepyfox's version this version is only run in the terminal. No browser is needed.
+This is heavily based on (sleepyfox / coffeescript-koans)[https://github.com/sleepyfox/coffeescript-koans]. In contrast to Nigel Runnels-Moss's version this version is only run in the terminal. No browser is needed.
 
 ### Installation
 
@@ -25,3 +25,5 @@ If you have not installed CoffeeScript you can run `node_modules/coffee-script/b
 *  _Douglas Crockford_ - for Javascript; the good bits
 *  _Daniel P. Friedman & Matthias Felleisen_ - for 'The Little LISPer' book, where it all started
 
+###License
+This software is (c) 2011 Nigel Runnels-Moss and licensed under the MIT license (see LICENCE for details).  Enjoy!
