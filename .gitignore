@@ -4,3 +4,4 @@ koans/*.js
 lib/koans/*.js
 completed-koans/*
 lib/underscore-min.js.bak
+node_modules
