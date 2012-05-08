@@ -4,7 +4,7 @@ This work is based on Ben Hall's [Javascript Koans](https://github.com/BenHall/j
 which in turn are based upon Edgecase's [Ruby koans](http://github.com/edgecase/ruby_koans). 
 The goal of the CoffeeScript koans is to teach you CoffeeScript programming through testing.
 
-This is heavily based on (sleepyfox / coffeescript-koans)[https://github.com/sleepyfox/coffeescript-koans]. In contrast to Nigel Runnels-Moss's version this version is only run in the terminal. No browser is needed.
+This is heavily based on [ sleepyfox / coffeescript-koans ]( https://github.com/sleepyfox/coffeescript-koans ). In contrast to Nigel Runnels-Moss's version this version is only run in the terminal. No browser is needed.
 
 ### Installation
 
